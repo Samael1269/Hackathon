@@ -50,6 +50,26 @@ Geospatial Web Apps
 
 We build interactive geospatial web applications using Leafmap and Streamlit to enhance patient journey experience and hospital navigation.
 
+## Technology Stack
+
+- **Kaggle**  
+  Used as a primary source for curated datasets to train and validate our models, especially healthcare and social media data.
+
+- **Jamaibase (LLM)**  
+  Integrated large language model (LLM) services via Jamaibase for natural language understanding and generation. This powers features like symptom diagnosis, report summarization, and intelligent recommendations.
+
+- **Streamlit**  
+  The entire web application is developed with Streamlit, enabling fast, interactive, and user-friendly front-end interfaces for patients, clinicians, and analysts.
+
+- **Leafmap**  
+  Utilized for building interactive geospatial web applications that enhance patient navigation and hospital wayfinding.
+
+These technologies work together to create a seamless healthcare assistance platform that combines AI, data analytics, and intuitive UI.
+
+## Google drive link: 
+Disease Database to Enhance LLM
+https://drive.google.com/drive/folders/1WCxFV9OD32HPKMgdUz-8OY8w7T99CXRT?usp=drive_link
+
 Contact / Support
 For questions or support, please contact the HotSauce
 
